@@ -17,7 +17,7 @@
 </table>
 
 <h2>Ce este un cod de recomandare Bybit?</h2>
-<p>Un cod de recomandare Bybit (<strong>TOPTOP</strong>) – cunoscut și sub denumirea de cod promoțional Bybit, cod de invitație Bybit sau link de afiliere Bybit – este un cod alfanumeric special pe care noii utilizatori îl pot introduce în timpul înregistrării. Acesta oferă beneficii exclusive, cum ar fi:</p>
+<p>Un cod de recomandare Bybit (<strong>62545</strong>) – cunoscut și sub denumirea de cod promoțional Bybit, cod de invitație Bybit sau link de afiliere Bybit – este un cod alfanumeric special pe care noii utilizatori îl pot introduce în timpul înregistrării. Acesta oferă beneficii exclusive, cum ar fi:</p>
     <ul>
         <li>Bonus de înscriere Bybit pentru utilizatorii noi</li>
         <li>Reduceri la comisioanele de tranzacționare prin programul de recompense Bybit</li>
